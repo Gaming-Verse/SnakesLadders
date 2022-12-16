@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    overflow: hidden;
+    
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 800;
+    font-size: 25px;
+    box-shadow: inset;
+    
+}
+button:hover{
+    background-color: rgb(83, 168, 253);
+    color: rgb(255, 255, 255);
+}
+
+center
+{
+    color:white;
+}
